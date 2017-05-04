@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ubertooth-tx.dir/ubertooth-tx.c.o  -o ubertooth-tx  ../../libubertooth/src/libubertooth.1.0.dylib /usr/local/lib/libusb-1.0.dylib /usr/local/lib/libbtbb.dylib liblibgetopt_static.a 

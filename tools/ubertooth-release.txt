@@ -1,0 +1,11 @@
+release procedure:
+
+scripted (release.sh):
+- git archive
+- nanoc compile
+- make Ubertooth One firmware binaries
+
+manual:
+- write RELEASENOTES.txt
+- tar -czvf
+- upload to GitHub
